@@ -1,1 +1,3 @@
-# carrousel
+# Background Slider
+
+> Project Statrus
