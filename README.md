@@ -1,3 +1,3 @@
 # Background Slider
 
-> Project Statrus
+> Project Status : In Development
